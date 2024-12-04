@@ -1,14 +1,31 @@
 ---
-title: "Paper Title Number 1"
+title: "A Self-Powered Accelerometer with Over-Range Detection for Vibration and Shock Based on Triboelectric-Electromagnetic Mechanism"
 collection: publications
 category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: /publication/2024-09-01-self-powered-accelerometer
+excerpt: "This paper presents a novel self-powered accelerometer integrating triboelectric and electromagnetic mechanisms for vibration and shock detection, featuring over-range detection and autonomous wireless operation."
+date: 2024-09-01
+venue: "Nano Energy"
+volume: 128
+pages: 109788
+publisher: "Elsevier"
+doi: "https://doi.org/10.1016/j.nanoen.2024.109788"
+paperurl: "https://www.sciencedirect.com/science/article/pii/S2211285524005366"
+keywords: 
+  - Self-powered accelerometer
+  - Vibration
+  - Shock
+  - Triboelectric-electromagnetic mechanism
+authors: 
+  - Zhao, Huai
+  - Machado, Lucas Q.
+  - Fu, Yiqiang
+  - Ouyang, Huajiang
+  - Mo, Jiliang
+citation: 'Zhao, Huai, Lucas Q. Machado, Yiqiang Fu, Huajiang Ouyang, Jiliang Mo. (2024). "A Self-Powered Accelerometer with Over-Range Detection for Vibration and Shock Based on Triboelectric-Electromagnetic Mechanism." <i>Nano Energy</i>. Vol. 128, 109788. https://doi.org/10.1016/j.nanoen.2024.109788.'
+abstract: >
+  Accelerometers based on triboelectric nanogenerators (TENGs) have garnered significant interest in recent years. However, many of these devices lack a self-sustained power supply for autonomous wireless operations and a mechanism for over-range detection. Additionally, theoretical investigations on the sensitivity of TENG-based accelerometers are scarce. In this work, a novel self-powered accelerometer for vibration and shock integrating a freestanding triboelectric-layer-based TENG (FT-TENG), two contact-separation TENGs (CS-TENGs) and an electromagnetic generator (EMG) is proposed and then investigated through both numerical simulations and experimental demonstrations. The EMG is used for vibration energy harvesting, exhibiting an impressive power output of 4.11 mW under a vibration acceleration of 12 m/s2. The FT-TENG and the CS-TENGs work for acceleration sensing and over-range detection respectively. Under vibration, the sensitivity and measurement range are related to the frequency of excitation, and the proposed accelerometer has the maximum sensitivity (0.75 V s2/m) at its natural frequency. For shock events, the sensitivity of the accelerometer is dominated by the shock duration in a short-duration range, which is estimated to be 0.12 V s2/m under a shock duration of 0.03 s. This work not only contributes to the understanding of TENGs adopted for sensing but also creates potential applications of triboelectric and electromagnetic energy harvesting and provides a feasible design for autonomous wireless sensor nodes.
+
 ---
 
 The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
